@@ -1,0 +1,7 @@
+abhishek - Owner
+atri - salesman
+agam - salesman
+atri's dad - partner
+Toby - ManagerToby - Manager
+kelly - SaleswomanToby - Manager
+kelly - Saleswoman
